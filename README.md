@@ -1,6 +1,6 @@
 # Star Wars Project 
 ## Overview
-Star Wars Project is a simple searching site made with HTML, CSS and plain JavaScript. All data are taken from The Star Wars API [starwarsapi.com](https://swapi.dev/). Users can simply type the title of the films using the search function and the site will respond by displaying basic information and image of the film.
+Star Wars Project is a simple searching site made with HTML, CSS and plain JavaScript. All data are taken from The Star Wars API [starwarsapi.com](https://swapi.dev/). Users can simply type the title of the films using the search function and the site will respond by displaying basic information and image.
 
 ## Technologies used
   * HTML
