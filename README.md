@@ -15,5 +15,6 @@ Star Wars Project is a simple searching site made with HTML, CSS and plain JavaS
  &nbsp;
 
 ## Screenshot 
+<sub>version 1.0.0</sup> :
 ![Screenshot 2022-10-16 15 26 46](https://user-images.githubusercontent.com/77573528/196038085-99239732-f739-49a7-9563-1ac009500cb7.png)
-<sub>version 1.0.0</sup>
+
