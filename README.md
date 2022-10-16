@@ -1,11 +1,19 @@
-# Star wars project
+# Star Wars Project 
+version 1.0.0
 
-This is a Star Wars project, where we use HTML, CSS and plain JS  
-We will use [starwarsapi.com](https://swapi.dev/) to get the data  
-This is a project with the main focus of learning HTML, CSS and Vanilla JS
+##Overview
+Star Wars Project is a simple searching site made with HTML, CSS and plain JavaScript. All data are taken from The Star Wars API [starwarsapi.com](https://swapi.dev/). Users can simply type the title of the films using the search function and the site will respond by displaying basic information and image of the film.
 
 &nbsp;
 
-## Technologies used
+## Technologies
+  * HTML
+  * CSS
+  * JavaScript
+  * ESLint
+  * Prettier
+  * The Star Wars API
 
-We use node version 16, Prettier, ESLint
+##Screenshot 
+### <sub> version 1.0.0</sub>
+![Screenshot 2022-10-16 15 26 46](https://user-images.githubusercontent.com/77573528/196038085-99239732-f739-49a7-9563-1ac009500cb7.png)
